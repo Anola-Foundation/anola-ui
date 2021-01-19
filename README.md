@@ -1,2 +1,2 @@
-# seaway-ui
-Seaway. UI Components
+# anola-ui
+Anola. UI Components
